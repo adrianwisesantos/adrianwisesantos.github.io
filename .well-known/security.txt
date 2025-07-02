@@ -1,0 +1,5 @@
+Contact: mailto:security@adrianwisesantos.com
+Encryption: https://adrianwisesantos.com/pgp-key.txt
+Preferred-Languages: en
+Canonical: https://adrianwisesantos.com/.well-known/security.txt
+Expires: 2026-12-31T23:59:59Z
